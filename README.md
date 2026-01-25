@@ -1,7 +1,10 @@
 
 <!-- ====== Banner ====== -->
 
-![Min Thant Hein — Data Science & ML](./banner.png)
+
+<p align="center">
+  <img src="RAW_IMAGE_URL_HERE" alt="Min Thant Hein — Data Science & ML" width="100%">
+</p>
 
 <h1 align="center">Hi there 👋 I'm Min Thant Hein</h1>
 <p align="center">
