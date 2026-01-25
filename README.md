@@ -1,9 +1,10 @@
 
 <!-- ====== Banner ====== -->
+
 <p align="center">
-  <!-- Replace the src with the URL after you upload the generated banner to your repo -->
-  <img src="BANNER_IMAGE_URL" alt="Min Thant Hein — Data Science & ML" width="100%" />
+  <img src="./banner.png" alt="Min Thant Hein — Data Science & ML" width="100%">
 </p>
+``
 
 <h1 align="center">Hi there 👋 I'm Min Thant Hein</h1>
 <p align="center">
