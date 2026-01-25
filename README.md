@@ -57,7 +57,7 @@ Short description
 </p>
 
 - DataCamp: **Data Scientist Associate**
-- Other certificates you want to add
+- <Other certificates you want to add>
 
 ---
 
