@@ -71,12 +71,12 @@
 
 ### 🔹 **Project 1: (Your ML Project Title)**
 Short description  
-🔗 [*Add your GitHub link here*
+🔗 [*Github Repo Link:*
 (https://github.com/Min-Thant-Hein-17/ML_Final_Project-Payment_Fraud_Detection-Kmeans_Clustering)
 
 ### 🔹 **Project 2: (Another Project Title)**
 Short description  
-🔗 [*Add your GitHub link here
+🔗 [*GitHub Repo Link:
 (https://github.com/Min-Thant-Hein-17/DBMS_Final_Project-Hospital_Management_System)*
 
 *(Add more as you build them!)*
