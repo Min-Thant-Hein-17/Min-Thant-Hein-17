@@ -76,7 +76,8 @@ Short description
 
 ### 🔹 **Project 2: (Another Project Title)**
 Short description  
-🔗 *[Add link](https://github.com/Min-Thant-Hein-17/DBMS_Final_Project-Hospital_Management_System)*
+🔗 [*Add your GitHub link here
+(https://github.com/Min-Thant-Hein-17/DBMS_Final_Project-Hospital_Management_System)*
 
 *(Add more as you build them!)*
 
