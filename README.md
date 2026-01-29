@@ -71,11 +71,13 @@
 
 ### 🔹 **Project 1: (Your ML Project Title)**
 This project is a practice project for my final term project by using streamlit for deployment stage and kmeans clustering model!
+
 🔗 [*Github Repo Link:*
 (https://github.com/Min-Thant-Hein-17/ML_Final_Project-Payment_Fraud_Detection-Kmeans_Clustering)
 
 ### 🔹 **Project 2: (Another Project Title)**
 This is a final group project from Data Base Management System Class. In this project, we will be working on Hospital Management System using DDL, DML, and Trigger functions. Additionally, we will also create a website using streamlit.
+
 🔗 [*GitHub Repo Link:
 (https://github.com/Min-Thant-Hein-17/DBMS_Final_Project-Hospital_Management_System)*
 
